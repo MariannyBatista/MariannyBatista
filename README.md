@@ -8,7 +8,7 @@
 const Mari = {
   code: [Javascript, HTML, CSS, JSX],
   tools: ["Firebase", "Bootstrap"],
-  interests: ["Anime", "Videogames", "Astrophysics"]
+  interests: ["Anime", "Videogames", "Astrophysics", "Music"]
 }
 ```
 
